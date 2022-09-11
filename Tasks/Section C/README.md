@@ -24,11 +24,11 @@ To test the code, you can apply the same logic as above to the 'test_main.py' fi
 
 ## References
 
-Sagar Devkota (2017). Converting number to words - CodeReview. Retrieved 8 September 2022,
+Sagar Devkota (2017). Converting number to words - CodeReview. Retrieved 11 September 2022,
 from https://codereview.stackexchange.com/questions/173971/converting-number-to-words
 
-Juliomalegria (2012). How do I tell Python to convert integers into words - stackoverflow. Retrieved 8 September 2022,
+Juliomalegria (2012). How do I tell Python to convert integers into words - stackoverflow. Retrieved 11 September 2022,
 from https://stackoverflow.com/questions/8982163/how-do-i-tell-python-to-convert-integers-into-words
 
-Arnab Chakraborty (2020). Integer to English Words in Python Programming - tutorialspoint. Retrieved 8 September 2022,
+Arnab Chakraborty (2020). Integer to English Words in Python Programming - tutorialspoint. Retrieved 11 September 2022,
 from https://www.tutorialspoint.com/integer-to-english-words-in-python-programming
